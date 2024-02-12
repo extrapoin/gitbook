@@ -1,7 +1,7 @@
 # Table of contents
 
-* [readme](README.md)
-* [Page 1](page-1.md)
+* [home](README.md)
+* [1 General Principles, Rules, and Conventions](1-general-principles-rules-and-conventions.md)
 
 ## Group 1
 

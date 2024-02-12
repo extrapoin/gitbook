@@ -49,3 +49,27 @@ Division VIII Chemical Nomenclature and Structure Representation Division
 {% content-ref url="10-parent-structures-for-natural-products-and-related-compounds.md" %}
 [10-parent-structures-for-natural-products-and-related-compounds.md](10-parent-structures-for-natural-products-and-related-compounds.md)
 {% endcontent-ref %}
+
+
+
+$$
+f(x) = x * e^{2 pi i \xi x}
+$$
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}

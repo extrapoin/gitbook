@@ -1,25 +1,51 @@
-# home
+# Home
+
+## _Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013._
 
 International Union of Pure and Applied Chemistry
 
 Division VIII Chemical Nomenclature and Structure Representation Division
 
-## _Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013._
+{% content-ref url="1-general-principles-rules-and-conventions.md" %}
+[1-general-principles-rules-and-conventions.md](1-general-principles-rules-and-conventions.md)
+{% endcontent-ref %}
 
-Prepared for publication by Henri A. Favre and Warren H. Powell,\
-Royal Society of Chemistry, ISBN 978-0-85404-182-4
+{% content-ref url="2-parent-hydrides.md" %}
+[2-parent-hydrides.md](2-parent-hydrides.md)
+{% endcontent-ref %}
 
-Prepared by G. P. Moss\
-School of Physical and Chemical Sciences, Queen Mary University of London,\
-Mile End Road, London, E1 4NS, UK\
-[g.p.moss@qmul.ac.uk](mailto:g.p.moss@qmul.ac.uk)
+{% content-ref url="3-characteristic-functional-and-substituent-groups.md" %}
+[3-characteristic-functional-and-substituent-groups.md](3-characteristic-functional-and-substituent-groups.md)
+{% endcontent-ref %}
 
-All noted [changes and corrections](https://iupac.qmul.ac.uk/bibliog/BBerrors.html) have been incorporated in this version. Otherwise the text is as close to the printed book as possible.
+{% content-ref url="4-rules-for-name-construction.md" %}
+[4-rules-for-name-construction.md](4-rules-for-name-construction.md)
+{% endcontent-ref %}
 
-Changes to the html web document have been marked by [![error details](https://iupac.qmul.ac.uk/greek/ALTER.GIF)](https://iupac.qmul.ac.uk/BlueBook/changes.html). When the cursor points to the red dot brief details will be displayed in a tooltip window. If you click on the red dot you will go to a list of all changes since this html version of the Blue Book was first made public.
+{% content-ref url="5-selecting-preferred-iupac-names-and-constructing-names-of-organic-compounds.md" %}
+[5-selecting-preferred-iupac-names-and-constructing-names-of-organic-compounds.md](5-selecting-preferred-iupac-names-and-constructing-names-of-organic-compounds.md)
+{% endcontent-ref %}
 
-***
+{% content-ref url="6-applications-to-specific-classes-of-compounds-p-60-p-65.md" %}
+[6-applications-to-specific-classes-of-compounds-p-60-p-65.md](6-applications-to-specific-classes-of-compounds-p-60-p-65.md)
+{% endcontent-ref %}
 
-[Contents](https://iupac.qmul.ac.uk/BlueBook/contents.html) \[([PDF](https://iupac.qmul.ac.uk/BlueBook/PDF/contents.pdf) (0.5 MB)]
+{% content-ref url="6-applications-to-specific-classes-of-compounds-p-66-p-69.md" %}
+[6-applications-to-specific-classes-of-compounds-p-66-p-69.md](6-applications-to-specific-classes-of-compounds-p-66-p-69.md)
+{% endcontent-ref %}
 
-A PDF of the whole book is available ([74.7 MB](https://iupac.qmul.ac.uk/BlueBook/PDF/BlueBookV3.pdf)). This is a merged copy of the individual chapters and other files below. Version 3 added 6 December 2023.
+{% content-ref url="7-radicals-ions-and-related-species.md" %}
+[7-radicals-ions-and-related-species.md](7-radicals-ions-and-related-species.md)
+{% endcontent-ref %}
+
+{% content-ref url="8-isotopically-modified-compounds.md" %}
+[8-isotopically-modified-compounds.md](8-isotopically-modified-compounds.md)
+{% endcontent-ref %}
+
+{% content-ref url="9-specification-of-configuration-and-conformation.md" %}
+[9-specification-of-configuration-and-conformation.md](9-specification-of-configuration-and-conformation.md)
+{% endcontent-ref %}
+
+{% content-ref url="10-parent-structures-for-natural-products-and-related-compounds.md" %}
+[10-parent-structures-for-natural-products-and-related-compounds.md](10-parent-structures-for-natural-products-and-related-compounds.md)
+{% endcontent-ref %}

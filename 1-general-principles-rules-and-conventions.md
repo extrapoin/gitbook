@@ -1,18 +1,6 @@
 # 1 General Principles, Rules, and Conventions
 
-International Union of Pure and Applied Chemistry
-
-Division VIII Chemical Nomenclature and Structure Representation Division
-
-## _Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013._
-
-Prepared for publication by Henri A. Favre and Warren H. Powell, Royal Society of Chemistry, ISBN 978-0-85404-182-4
-
-***
-
-Chapter P-1 GENERAL PRINCIPLES, RULES, AND CONVENTIONS.
-
-P-10 INTRODUCTION
+## INTRODUCTION
 
 For nomenclature purposes, a structure containing at least one carbon atom is considered to be an organic compound and can be named using the principles of organic nomenclature, such as substitutive or replacement nomenclature, as described in this book.
 

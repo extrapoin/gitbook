@@ -3917,10 +3917,3 @@ P-16.9.6 Multiple primes
 
 Long strings of primes may be needed with ring assemblies and polyspiro compound. It is difficult to count long streams of primes. For example, how many primes appear in this string: ′′′′′′′′ ? It is eight. In these recommendations, to simplify the counting process, long strings of primes are broken into groups of three as: ′′′ ′′′ ′′, which has the same number of primes as the string above. This is a change from the publication on spiro compounds ([ref. 8](https://iupac.qmul.ac.uk/BlueBook/refs.html#ref8)) in which multiple primes were separated by a space after every four primes.
 
-***
-
-Continued with [P-2](https://iupac.qmul.ac.uk/BlueBook/P2.html) Parent Hydrides
-
-Return to:\
-[IUPAC Chemical Nomenclature](https://iupac.qmul.ac.uk/index.html) home page.\
-[Blue Book](https://iupac.qmul.ac.uk/BlueBook/index.html) home page.\

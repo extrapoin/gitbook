@@ -61,6 +61,18 @@ buta-1,3-diene (PIN)
 ![](https://iupac.qmul.ac.uk/BlueBook/P3gif/P310101g.gif)\
 nona-1,3,5,7-tetraene (PIN)
 
+<details>
+
+<summary>Examples</summary>
+
+![](https://iupac.qmul.ac.uk/BlueBook/P3gif/P310101f.gif)\
+buta-1,3-diene (PIN)
+
+![](https://iupac.qmul.ac.uk/BlueBook/P3gif/P310101g.gif)\
+nona-1,3,5,7-tetraene (PIN)
+
+</details>
+
 P-31.1.1.3 The method of [P-31.1.1](https://iupac.qmul.ac.uk/BlueBook/P3.html#310101) is applicable to the following saturated hydrocarbon parent hydrides and to the corresponding hydrides modified by skeletal replacement (‘a’) nomenclature that are described in Chapter [P-2](https://iupac.qmul.ac.uk/BlueBook/P2.html):
 
 > [P-31.1.2](https://iupac.qmul.ac.uk/BlueBook/P3.html#310102) Acyclic parent hydrides\
